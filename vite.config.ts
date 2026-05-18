@@ -6,11 +6,4 @@ export default defineConfig({
       entry: "./src/server.ts",
     },
   },
-
-  vite: {
-    server: {
-      host: true,
-      port: 3000,
-    },
-  },
 });
