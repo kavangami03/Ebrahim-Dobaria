@@ -26,7 +26,7 @@ export function Footer() {
           <div className="lg:col-span-5">
             <Wordmark />
             <p className="mt-8 max-w-sm text-sm leading-relaxed text-muted-foreground">
-              Ebrahim & Dobaria Law LLC — sophisticated legal counsel for individuals, families, and
+              Ibrahim & Dobaria Law LLC — sophisticated legal counsel for individuals, families, and
               enterprises operating across borders.
             </p>
             <form onSubmit={(e) => e.preventDefault()} className="mt-10 max-w-sm">
@@ -63,7 +63,7 @@ export function Footer() {
 
         <div className="mt-20 flex flex-col items-start justify-between gap-6 border-t border-border/60 pt-8 md:flex-row md:items-center">
           <div className="text-[11px] uppercase tracking-[0.3em] text-muted-foreground/70">
-            © {new Date().getFullYear()} Ebrahim & Dobaria Law LLC · All Rights Reserved
+            © {new Date().getFullYear()} Ibrahim & Dobaria Law LLC · All Rights Reserved
           </div>
           <div className="flex gap-6 text-[11px] uppercase tracking-[0.3em] text-muted-foreground/70">
             <a href="#" className="hover:text-foreground">Privacy</a>

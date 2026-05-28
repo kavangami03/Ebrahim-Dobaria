@@ -29,7 +29,7 @@ export function Hero() {
       <div className="relative mx-auto grid max-w-[1520px] gap-12 px-5 md:px-8 lg:grid-cols-12 lg:gap-10">
         <div className="lg:col-span-7">
           <div className="animate-[fade-in_0.9s_ease-out]">
-            <Kicker>Ebrahim & Dobaria Law · LLC</Kicker>
+            <Kicker>Ibrahim & Dobaria Law · LLC</Kicker>
           </div>
 
           <h1 className="mt-6 font-display text-[clamp(2rem,5vw,4.5rem)] leading-[0.98] tracking-[-0.02em] text-balance">
@@ -60,7 +60,7 @@ export function Hero() {
           </h1>
 
           <p className="mt-6 max-w-xl text-[15px] leading-relaxed text-muted-foreground opacity-0 [animation:fade-in_0.9s_ease-out_0.7s_forwards] md:text-base">
-            Ebrahim & Dobaria Law LLC advises individuals, families, and enterprises across borders —
+            Ibrahim & Dobaria Law LLC advises individuals, families, and enterprises across borders —
             delivering sophisticated legal strategy with clarity, conviction, and uncompromising advocacy.
           </p>
 

@@ -45,7 +45,7 @@ export function About() {
           </Reveal>
           <Reveal delay={160}>
             <p className="mt-8 max-w-xl text-[15px] leading-relaxed text-muted-foreground md:text-base">
-              Ebrahim & Dobaria Law LLC was founded on a simple proposition: that elite legal work
+              Ibrahim & Dobaria Law LLC was founded on a simple proposition: that elite legal work
               is a craft — a balance of intellectual rigor, ethical conviction, and unwavering
               advocacy for the client we serve. From cross-border corporate matters to deeply
               personal immigration journeys, every engagement is led by a partner and built on

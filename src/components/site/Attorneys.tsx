@@ -6,7 +6,7 @@ import { Reveal } from "@/components/fx/Reveal";
 import { Kicker } from "@/components/fx/Kicker";
 
 const PEOPLE = [
-  { img: a1, name: "Yusuf A. Ebrahim", role: "Founding Partner", focus: "Immigration · International", bio: "Two decades counseling executives, scholars, and families navigating U.S. and global immigration." },
+  { img: a1, name: "Yusuf A. Ibrahim", role: "Founding Partner", focus: "Immigration · International", bio: "Two decades counseling executives, scholars, and families navigating U.S. and global immigration." },
   { img: a2, name: "Imran K. Dobaria", role: "Founding Partner", focus: "Corporate · M&A", bio: "Cross-border transactions, governance, and the strategic infrastructure of growth-stage enterprises." },
   { img: a3, name: "Anisa R. Mehta", role: "Senior Counsel", focus: "Litigation · Employment", bio: "Trial-tested advocate with a record of decisive results in state and federal forums." },
   { img: a4, name: "James W. Holloway", role: "Of Counsel", focus: "Real Estate · Finance", bio: "Thirty years structuring complex commercial real estate transactions across three continents." },

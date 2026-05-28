@@ -4,8 +4,6 @@ import Lenis from "lenis";
 export function useLenis() {
   useEffect(() => {
     if (typeof window === "undefined") return;
-    const prefersReduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (prefersReduced) return;
 
     const lenis = new Lenis({
       duration: 1.15,

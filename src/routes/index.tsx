@@ -13,9 +13,9 @@ import { FAQ } from "@/components/site/FAQ";
 import { Contact } from "@/components/site/Contact";
 import { Footer } from "@/components/site/Footer";
 
-const TITLE = "Ebrahim & Dobaria Law LLC — Strategic Counsel, Built on Trust";
+const TITLE = "Ibrahim & Dobaria Law LLC — Strategic Counsel, Built on Trust";
 const DESC =
-  "Ebrahim & Dobaria Law LLC delivers sophisticated legal counsel across immigration, corporate, litigation, and family law — with partner-led representation worldwide.";
+  "Ibrahim & Dobaria Law LLC delivers sophisticated legal counsel across immigration, corporate, litigation, and family law — with partner-led representation worldwide.";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -33,7 +33,7 @@ export const Route = createFileRoute("/")({
         children: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "LegalService",
-          name: "Ebrahim & Dobaria Law LLC",
+          name: "Ibrahim & Dobaria Law LLC",
           description: DESC,
           areaServed: ["United States", "United Kingdom", "United Arab Emirates", "India"],
           telephone: "+1-212-555-0188",
